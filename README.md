@@ -30,3 +30,14 @@ How to get your key:
    - SETTING
      
      SETTING> applykey
+
+
+
+<blockquote>
+    <p>Changelog:</p>
+
+	STATUS     FILE                    REMARK
+	[OK]       fla 241218.rar          CMD,SSH,IPC,KB Mode
+	[PENDING]                          EOV,HNAS,HNASF,MDS,BROCADE,HCP
+ 
+</blockquote>
