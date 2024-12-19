@@ -38,6 +38,7 @@ How to get your key:
 
 	STATUS     FILE                    REMARK
 	[OK]       fla 241218.rar          CMD,SSH,IPC,KB Mode
-	[PENDING]                          EOV,HNAS,HNASF,MDS,BROCADE,HCP
+	[OK]       fla 241219.rar          HNAS Mode
+	[PENDING]                          EOV,HNASF,MDS,BROCADE,HCP
  
 </blockquote>
