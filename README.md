@@ -35,10 +35,11 @@ How to get your key:
 
 <blockquote>
     <p>Changelog:</p>
-
+	v1.0.0 - Beta
 	STATUS     FILE                    REMARK
 	[OK]       fla 241218.rar          CMD,SSH,IPC,KB Mode
 	[OK]       fla 241219.rar          HNAS Mode
+	[OK]       fla 241221.rar          SSHX Mode, autocomplete, history, statusbar
 	[PENDING]                          EOV,HNASF,MDS,BROCADE,HCP
  
 </blockquote>
