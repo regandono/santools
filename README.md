@@ -14,13 +14,14 @@ Installing
 ----------
 \>_ Fla is portable application.
 
+
 Documentation
 -------------
 \>_ Under contructions.
 
+
 How to get your key
 ------------- 
-
 ```bash
 1. Get HWID 
    - Fla     
@@ -40,18 +41,13 @@ How to get your key
      SETTING> applykey
 ```
 
-
-
-
 Changelog
 -------------  
 
 ```bash
 v1.0.0 - Beta
-**STATUS**     **FILE**                    **REMARK**
+STATUS     FILE                    REMARK
 [OK]       fla 241218.rar          CMD,SSH,IPC,KB Mode
 [OK]       fla 241219.rar          HNAS Mode 
 [PENDING]                          SSHX Mode, autocomplete, history, statusbar, EOV,HNASF,MDS,BROCADE,HCP  
 ```
-   
-
