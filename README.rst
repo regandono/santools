@@ -4,6 +4,7 @@ Welcome to Fla
 ===================
 \>_ Fla is console application (**specifically**) for storage administrator/engineer to view configuration, logs and have built in tools that very usefull for any administrator/engineer.
  
+.. image :: https://github.com/regandono/santools/blob/fla/fhelp.png
 
 Installing
 ----------
@@ -19,7 +20,7 @@ Documentation
   ::
  
     Arrow Up/Down: command history
-    Arrow Right: command auto complete from history
+    Arrow Right: auto complete from history
     Tab: show command/sub command
   
 \>_ How to get your key: 
