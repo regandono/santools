@@ -50,8 +50,8 @@ Documentation
   ::
  
     v1.0.0 - Beta
-    STATUS     FILE                    REMARK
-    [OK]       fla 241218.rar          CMD, SSH, IPC, KB Mode
-    [OK]       fla 241219.rar          HNAS Mode 
-    [PENDING]                          SSHX Mode, autocomplete, history, statusbar, EOV, HNASF, MDS, BROCADE, HCP  
+    STATUS     FILE                REMARK
+    [OK]       fla 241218.rar      CMD, SSH, IPC, KB Mode
+    [OK]       fla 241219.rar      HNAS Mode 
+    [PENDING]                      HNASF, SSHX, EOV, HNASF, MDS, BROCADE, HCP Mode, autocomplete, history, statusbar, XView
      
