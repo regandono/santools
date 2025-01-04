@@ -2,28 +2,22 @@
 
 Welcome to Fla
 ===================
-\>_ Fla is console application (**specifically**) for storage administrator/engineer to view configuration, logs and have built in tools that very usefull for any administrator/engineer.
+``>_`` Fla is console application (**specifically**) for storage administrator/engineer to view configuration, logs and have built in tools that very usefull for any administrator/engineer.
  
 .. image :: https://github.com/regandono/santools/blob/fla/fhelp.png
 
 Installing
 ----------
-\>_ Fla is portable application.
+``>_`` Fla is portable application.
 
 
-Documentation
+Getting started
 -------------
- 
+Fla is free application and please email me your hardware id to get key.
 
-\>_ Navigations:
+Default password is ``fla``.
 
-  ::
- 
-    Arrow Up/Down: command history
-    Arrow Right: auto complete from history
-    Tab: show command/sub command
-  
-\>_ How to get your key: 
+``>_`` How to get your key: 
 
   ::
  
@@ -43,9 +37,23 @@ Documentation
          Fla> setting applykey
        - SETTING     
          SETTING> applykey
- 
+  
+``>_`` Navigations:
 
-\>_ Changelog: 
+  ::
+ 
+    Arrow Up/Down: command history
+    Arrow Right: auto complete from history
+    Tab: show command/sub command
+
+``>_`` Notes: 
+
+  ::
+ 
+    - HNASF 
+      Some diagnostics output have limitation show (max) 20 records per vnode/pnodes.    
+
+``>_`` Changelog: 
 
   ::
  
