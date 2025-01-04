@@ -18,9 +18,16 @@ Installing
 
 Documentation
 -------------
-\>_ Under contructions.
+\>_ Navigations:
 
+  ::
+ 
+    Arrow Up/Down: command history
+    Arrow Right: command auto complete from history
+    Tab: show command/sub command
+ 
 
+    
 How to get your key
 ------------- 
 ```bash
@@ -48,7 +55,7 @@ Changelog
 ```bash
 v1.0.0 - Beta
 STATUS     FILE                    REMARK
-[OK]       fla 241218.rar          CMD,SSH,IPC,KB Mode
+[OK]       fla 241218.rar          CMD, SSH, IPC, KB Mode
 [OK]       fla 241219.rar          HNAS Mode 
-[PENDING]                          SSHX Mode, autocomplete, history, statusbar, EOV,HNASF,MDS,BROCADE,HCP  
+[PENDING]                          SSHX Mode, autocomplete, history, statusbar, EOV, HNASF, MDS, BROCADE, HCP  
 ```
