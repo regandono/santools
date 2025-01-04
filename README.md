@@ -5,7 +5,8 @@ Welcome to Fla
 
 
 
-![image](https://github.com/user-attachments/assets/f891d174-a5b7-46c2-b6a2-6afea00609b9)
+![image](https://github.com/user-attachments/assets/adf2c51a-14ab-4a09-a2e5-551cd0440fd7)
+
 
 
 
@@ -49,9 +50,8 @@ Changelog
 v1.0.0 - Beta
 STATUS     FILE                    REMARK
 [OK]       fla 241218.rar          CMD,SSH,IPC,KB Mode
-[OK]       fla 241219.rar          HNAS Mode
-[OK]       fla 241221.rar          SSHX Mode, autocomplete, history, statusbar
-[PENDING]                          EOV,HNASF,MDS,BROCADE,HCP  
+[OK]       fla 241219.rar          HNAS Mode 
+[PENDING]                          SSHX Mode, autocomplete, history, statusbar, EOV,HNASF,MDS,BROCADE,HCP  
 ```
    
 
