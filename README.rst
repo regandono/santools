@@ -62,5 +62,6 @@ Default password is ``fla``.
     STATUS     FILE                REMARK
     [OK]       fla 241218.rar      CMD, SSH, IPC, KB Mode
     [OK]       fla 241219.rar      HNAS Mode 
-    [PENDING]                      HNASF, SSHX, EOV, HNASF, MDS, BROCADE, HCP Mode, autocomplete, history, statusbar, XView
+    [OK]       fla 250106.rar      HNASF, SSHX Mode, autocomplete, history, statusbar
+    [PENDING]                      EOV, HNASF, MDS, BROCADE, HCP Mode, XView
      
