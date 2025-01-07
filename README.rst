@@ -6,14 +6,51 @@ Welcome to Fla
  
 .. image :: https://github.com/regandono/santools/blob/fla/images/fhelp.png
 
-Installing
-----------
-``>_`` Fla is portable application.
 
+Features
+----------
+``>_`` It's portable.
+
+``>_`` Available Mode/Module/Component/what ever we can call this:
+
+  ::
+ 
+    - IP Changer (IPC)
+      Tools to change ip address when we connect many devices with different default ip or different ip segment.
+
+    - Enterprise Offline Viewer (EOV) [PENDING]
+      Offline tools to view Hitachi Vantara storage configuration.
+
+    - HNAS
+      Non-interactive online connection to hitachi NAS. Please refer each model of HNAS CLI Documentations for CLI command.
+
+    - HNASF
+      Offline tools for Hitachi NAS configuration.
+
+    - Windows Command Line Terminal (CMD)
+      Built in Windows Command Line Terminal.
+
+    - SSH
+      Non-interactive SSH client.
+
+    - SSHX
+      Interactive SSH client (Experimental).
+
+    - Knowledge Base (KB)
+      Tools to manages your knowledge/notes/tips&trics/etc.
+
+    - MDS [PENDING]
+      Offline tools for Cisco MDS.
+
+    - BROCADE [PENDING]
+      Offline tools for Brocade.
+
+    - HCP [PENDING]
+      Offline tools for Hitachi Content Platform.
 
 Getting started
 -------------
-Fla is free application and please email me your hardware id to get key.
+Fla is free application and please email me your hardware id to get your key.
 
 Default password is ``fla``.
 
@@ -50,6 +87,9 @@ Default password is ``fla``.
 
   ::
  
+    - IPC
+      * To apply any profile, IPC required administrator privilage.
+
     - HNASF 
       * Some diagnostics output have limitation (only show (max) 20 records per vnode/pnodes).
       * Currently only suport one (1) cluster per diagnostic file.
