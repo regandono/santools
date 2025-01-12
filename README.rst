@@ -82,6 +82,7 @@ Default password is ``fla``.
     Arrow Up/Down: command history
     Arrow Right: auto complete from history
     Tab: show command/sub command
+    Ctrl+Space: show command/sub command
 
 ``>_`` Notes: 
 
