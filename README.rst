@@ -87,6 +87,10 @@ Default password is ``fla``.
 ``>_`` Notes: 
 
   ::
+
+    - General
+      * Output can be wrapped, try to increase your Command Prompt "Screen Buffer Size" (eg: 500).
+        Goto  your Command Prompt Properties or using CLI mode 'con:cols=Width_Size'
  
     - IPC
       * To apply any profile, IPC required administrator privilage.
