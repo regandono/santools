@@ -48,6 +48,9 @@ Features
     - HCP [PENDING]
       Offline tools for Hitachi Content Platform.
 
+    - HCPAE [PENDING]
+      Offline tools for HCP Anywhere Enterprise.
+
 Getting started
 -------------
 Fla is free application and please email me your hardware id to get your key.
