@@ -84,8 +84,10 @@ Default password is ``fla``.
  
     Arrow Up/Down: command history
     Arrow Right: auto complete from history
-    Tab: show command/sub command
+    Tab: show command/sub command/change focus
+    Shift+Tab: change previous focus
     Ctrl+Space: show command/sub command
+    Ctrl+S: show search
 
 ``>_`` Notes: 
 
