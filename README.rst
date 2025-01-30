@@ -87,7 +87,7 @@ Default password is ``fla``.
     Tab: show command/sub command/change focus
     Shift+Tab: change previous focus
     Ctrl+Space: show command/sub command
-    Ctrl+S: show search
+    Ctrl+S: search
 
 ``>_`` Notes: 
 
@@ -117,5 +117,5 @@ Default password is ``fla``.
     [OK]       fla 241219.rar      HNAS Mode 
     [OK]       fla 250106.rar      HNASF, SSHX Mode, autocomplete, history, statusbar
     [PENDING]                      Mode: EOV, MDS, BROCADE, HCP, HCPAE
-                                   Etc: HNASF vLog
+                                   Etc: HNASF xView
      
