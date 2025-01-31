@@ -95,7 +95,7 @@ Default password is ``fla``.
   ::
 
     - General
-      * Output can be wrapped, 
+      * When output while showing table is wrapped, 
         - try to increase your Command Prompt "Screen Buffer Size" (eg: 500).
           Goto  your Command Prompt Properties or using CLI mode 'con:cols=Width_Size'
         - try to show/hide any column using 
