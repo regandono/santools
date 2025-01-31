@@ -105,7 +105,7 @@ Default password is ``fla``.
       * To apply any profile, IPC required administrator privilage.
 
     - HNASF 
-      * Some diagnostics output have limitation (only show (max) 20 records per vnode/pnodes).
+      * Some of diagnostics output have limitation (only show (max) 20 records per vnode/pnodes).
       * Currently only suport one (1) cluster per diagnostic file.
 
 ``>_`` Changelog: 
