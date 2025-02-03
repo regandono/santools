@@ -74,7 +74,7 @@ Default password is ``fla``.
 
 ``>_`` How to get your key: 
 
-  ::
+::
  
     1. Get HWID 
        - Fla     
@@ -136,7 +136,7 @@ Default password is ``fla``.
 
 ``>_`` Changelog: 
 
-  ::
+::
  
     v1.0.0 - Beta
     STATUS     FILE                REMARK
