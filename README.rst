@@ -20,7 +20,7 @@ Features
 
 - ``EOV`` Enterprise Offline Viewer [PENDING]
    
-  Offline tools to view Hitachi Vantara storage configuration.
+  Offline tools for Hitachi Enterprise storage.
 
 - ``HNAS``
 
@@ -28,7 +28,7 @@ Features
 
 - ``HNASF``
 
-  Offline tools for Hitachi NAS configuration.
+  Offline tools for Hitachi NAS.
 
 - ``CMD`` Windows Command Line Terminal 
   
@@ -48,11 +48,11 @@ Features
 
 - ``MDS`` [PENDING]
 
-  Offline tools for Cisco MDS.
+  Offline tools for Cisco MDS SAN switch.
 
 - ``BROCADE`` [PENDING]
 
-  Offline tools for Brocade.
+  Offline tools for Brocade SAN switch.
 
 - ``HCP`` [PENDING]
       
