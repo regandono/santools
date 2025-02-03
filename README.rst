@@ -80,33 +80,43 @@ Default password is ``fla``.
   
 ``>_`` Navigations:
 
-  ::
+
+- ``Arrow Up/Down``: command history
+- ``Arrow Right``: auto complete from history
+- ``Tab``: show command/sub command/change focus
+- ``Shift+Tab``: change to previous focus
+- ``Ctrl+Space``: show command/sub command
+- ``Ctrl+S``: search
+- ``Ctrl+A``: select all
  
-    Arrow Up/Down: command history
-    Arrow Right: auto complete from history
-    Tab: show command/sub command/change focus
-    Shift+Tab: change to previous focus
-    Ctrl+Space: show command/sub command
-    Ctrl+S: search
-    Ctrl+A: select all
 
 ``>_`` Notes: 
 
-  ::
 
-    - General
-      * When output while showing table is wrapped, 
-        - try to increase your Command Prompt "Screen Buffer Size" (eg: 500).
-          Goto  your Command Prompt Properties or using CLI mode 'con:cols=Width_Size'
-        - try to show/hide any column using 
-          >_ COLUMN SET
- 
-    - IPC
-      * To apply any profile, IPC required administrator privilage.
+- ``General``
 
-    - HNASF 
-      * Some of diagnostics output have limitation (only show (max) 20 records per vnode/pnodes).
-      * Currently only suport one (1) cluster per diagnostic file.
+  * When output while showing table is wrapped,
+
+    - Increase your Command Prompt "Screen Buffer Size" (eg: 500).
+
+      Goto  your Command Prompt Properties or using CLI mode 'con:cols=Width_Size'
+
+    - Show/hide any column using 
+
+      ``>_`` COLUMN SET
+
+
+- ``IPC``
+
+  * To apply any profile, IPC required administrator privilage.
+
+
+- ``HNASF`` 
+
+  * Some of diagnostics output have limitation (only show (max) 20 records per vnode/pnodes).
+  
+  * Currently only suport one (1) cluster per diagnostic file.
+
 
 ``>_`` Changelog: 
 
