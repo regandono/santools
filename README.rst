@@ -24,7 +24,8 @@ Features
 
 - ``HNAS``
 
-  Non-interactive online connection to hitachi NAS. Please refer each model of HNAS CLI Documentations for CLI command.
+  Non-interactive online connection to hitachi NAS. 
+  Please refer each model of HNAS CLI Documentations for CLI command.
 
 - ``HNASF``
 
