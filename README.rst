@@ -16,7 +16,7 @@ Features
 
 - ``IPC`` IP Changer
 
-  Tools to change ip address when we connect many devices with different default ip or different ip segment.
+  IP Changer tools.
 
 - ``EOV`` Enterprise Offline Viewer [PENDING]
    
