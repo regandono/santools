@@ -13,43 +13,56 @@ Features
 
 ``>_`` Available Mode/Module/Component/what ever we can call this:
 
-  ::
- 
-    - IP Changer (IPC)
-      Tools to change ip address when we connect many devices with different default ip or different ip segment.
 
-    - Enterprise Offline Viewer (EOV) [PENDING]
-      Offline tools to view Hitachi Vantara storage configuration.
+- ``IPC`` IP Changer
 
-    - HNAS
-      Non-interactive online connection to hitachi NAS. Please refer each model of HNAS CLI Documentations for CLI command.
+  Tools to change ip address when we connect many devices with different default ip or different ip segment.
 
-    - HNASF
-      Offline tools for Hitachi NAS configuration.
+- ``EOV`` Enterprise Offline Viewer [PENDING]
+   
+  Offline tools to view Hitachi Vantara storage configuration.
 
-    - Windows Command Line Terminal (CMD)
-      Built in Windows Command Line Terminal.
+- ``HNAS``
 
-    - SSH
-      Non-interactive SSH client.
+  Non-interactive online connection to hitachi NAS. Please refer each model of HNAS CLI Documentations for CLI command.
 
-    - SSHX
-      Interactive SSH client (Experimental).
+- ``HNASF``
 
-    - Knowledge Base (KB)
-      Tools to manages your knowledge/notes/tips&trics/etc.
+  Offline tools for Hitachi NAS configuration.
 
-    - MDS [PENDING]
-      Offline tools for Cisco MDS.
+- ``CMD`` Windows Command Line Terminal 
+  
+  Built in Windows Command Line Terminal.
 
-    - BROCADE [PENDING]
-      Offline tools for Brocade.
+- ``SSH``
 
-    - HCP [PENDING]
-      Offline tools for Hitachi Content Platform.
+  Non-interactive SSH client.
 
-    - HCPAE [PENDING]
-      Offline tools for HCP Anywhere Enterprise.
+- ``SSHX``
+
+  Interactive SSH client (Experimental).
+
+- ``KB`` Knowledge Base
+
+  Tools to manages your knowledge/notes/tips&trics/etc.
+
+- ``MDS`` [PENDING]
+
+  Offline tools for Cisco MDS.
+
+- ``BROCADE`` [PENDING]
+
+  Offline tools for Brocade.
+
+- ``HCP`` [PENDING]
+      
+  Offline tools for Hitachi Content Platform.
+
+- ``HCPAE`` [PENDING]
+      
+  Offline tools for HCP Anywhere Enterprise.
+
+
 
 Getting started
 -------------
@@ -95,7 +108,8 @@ Default password is ``fla``.
 
 - ``General``
 
-  * When output while showing table is wrapped,
+
+  * Table output is wrapped,
 
     - Increase your Command Prompt "Screen Buffer Size" (eg: 500).
 
