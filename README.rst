@@ -131,7 +131,7 @@ Default password is ``fla``.
 
   * Some of diagnostics output have limitation (only show (max) 20 records per vnode/pnodes).
   
-  * Currently only suport one (1) cluster per diagnostic file.
+  * Currently only suport one (1) cluster per diagnostic file.   
 
 
 ``>_`` Changelog: 
