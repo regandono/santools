@@ -137,6 +137,7 @@ Default password is ``fla``.
 ``>_`` Changelog: 
 
 ::
+
      v1.0.0 - Beta
      STATUS     FILE                     REMARK
      [OK]       fla 241218.rar           Mode: CMD, SSH, IPC, KB
