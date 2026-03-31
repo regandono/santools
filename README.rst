@@ -137,14 +137,13 @@ Default password is ``fla``.
 ``>_`` Changelog: 
 
 ::
- 
-      v1.0.0 - Beta
-      STATUS     FILE                     REMARK
-      [OK]       fla 241218.rar           Mode: CMD, SSH, IPC, KB
-      [OK]       fla 241219.rar           Mode: HNAS
-      [OK]       fla 250106.rar           Mode: HNASF, SSHX
-                                          Etc: autocomplete, history, statusbar
-      [OK]       fla 250131.rar           HNASF xView, color formatting
-      [OK]       fla 260329.rar           Kali ZSH Prompt
-      [PENDING]                           EOV,MDS,BROCADE,HCP,HCPAE
+     v1.0.0 - Beta
+     STATUS     FILE                     REMARK
+     [OK]       fla 241218.rar           Mode: CMD, SSH, IPC, KB
+     [OK]       fla 241219.rar           Mode: HNAS
+     [OK]       fla 250106.rar           Mode: HNASF, SSHX
+                                         Etc: autocomplete, history, statusbar
+     [OK]       fla 250131.rar           HNASF xView, color formatting
+     [OK]       fla 260329.rar           Etc: Kali ZSH Prompt
+     [PENDING]                           EOV,MDS,BROCADE,HCP,HCPAE
                
