@@ -146,5 +146,6 @@ Default password is ``fla``.
                                          Etc: autocomplete, history, statusbar
      [OK]       fla 250131.rar           HNASF xView, color formatting
      [OK]       fla 260329.rar           Etc: Kali ZSH Prompt
-     [PENDING]                           EOV,MDS,BROCADE,HCP,HCPAE
+     [OK]       fla 260411.rar           Mode: MDS, BROCADE
+     [PENDING]                           EOV,HCP,HCPAE
                
