@@ -68,7 +68,7 @@ Features
 
 Getting started
 -------------
-Fla is free application and please email me your hardware id to get your key.
+Fla is free application and please email me your hardware id to get your key to unlock all.
 
 Default password is ``fla``.
 
