@@ -46,7 +46,7 @@ Features
 
 - ``KB`` Knowledge Base
 
-  Tools to manages your knowledge/notes/tips&trics/etc.
+  Simple tools to manages your knowledge/snip/notes/tips&trics/etc.
 
 - ``MDS``
 
