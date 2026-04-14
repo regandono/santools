@@ -48,11 +48,11 @@ Features
 
   Tools to manages your knowledge/notes/tips&trics/etc.
 
-- ``MDS`` [PENDING]
+- ``MDS``
 
   Offline tools for Cisco MDS SAN switch.
 
-- ``BROCADE`` [PENDING]
+- ``BROCADE``
 
   Offline tools for Brocade SAN switch.
 
