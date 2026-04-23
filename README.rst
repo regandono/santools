@@ -119,7 +119,7 @@ Default password is ``fla``.
 
     - Show/hide any column using 
 
-      ``>_`` COLUMN SET
+      ``>_`` SHOW COLUMN or COLUMN SET or COLUMN RESET
 
 
 - ``IPC``
