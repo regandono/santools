@@ -111,7 +111,7 @@ Default password is ``fla``.
 - ``General``
 
 
-  * Best run on windows terminal as we can easily to  increase/decrease font size. But if table output is wrapped,
+  * Best run on windows terminal as we can easily to  increase/decrease font size (CTRL + Mouse Scroll Up/Down). But if table output is wrapped,
 
     - Increase your Command Prompt "Screen Buffer Size" (eg: 500).
 
