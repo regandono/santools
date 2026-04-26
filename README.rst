@@ -111,11 +111,14 @@ Default password is ``fla``.
 - ``General``
 
 
+  * If font cannot show properly, change your terminal font (eg: Cascadia Mono)
+
+
   * If cannot increase/decrease font size by press CTRL + Mouse Scroll Up/Down and table output is wrapped, 
 
-    - Increase your Command Prompt "Screen Buffer Size" (eg: 500).
+    - Increase your terminal "Screen Buffer Size" (eg: 500).
 
-      Goto  your Command Prompt Properties or using CLI mode 'con:cols=Width_Size'
+      Goto  your terminal Properties or using CLI mode 'con:cols=Width_Size'
 
     - Show/hide any column using 
 
