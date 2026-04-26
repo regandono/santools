@@ -72,7 +72,7 @@ Fla is free application and please email me your hardware id to get your key to 
 
 Default password is ``fla``.
 
-``>_`` How to get your key: 
+``>_`` How to get your key and apply: 
  
 ::
  
