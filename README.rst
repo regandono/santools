@@ -129,7 +129,7 @@ Default password is ``fla``.
 
 - ``HNASF`` 
 
-  * Some of diagnostics output have limitation (only show (max) 20 records per vnode/pnodes).
+  * Diagnostics output have limitation (only show (max) 20 records per vnode/pnodes).
   
   * Currently only suport one (1) cluster per diagnostic file.   
 
