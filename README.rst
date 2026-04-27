@@ -58,12 +58,7 @@ Features
 
 - ``HCP`` HCP Offline Viewer
       
-  Offline tools for Hitachi Content Platform.
-
-- ``HCPAE`` [PENDING]
-      
-  Offline tools for HCP Anywhere Enterprise.
-
+  Offline tools for Hitachi Content Platform. 
 
 
 Getting started
