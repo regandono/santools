@@ -67,6 +67,8 @@ Fla is free application and please email me your hardware id to get your key to 
 
 Default password is ``fla``.
 
+Navigate to ``Release`` or can click this link to download latest version https://github.com/regandono/santools/releases
+
 ``>_`` How to get your key and apply: 
  
 ::
