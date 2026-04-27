@@ -99,7 +99,7 @@ Default password is ``fla``.
 - ``Ctrl+S``: search
 - ``Ctrl+A``: select all
 - ``Ctrl+X``: exit from mode (force)
-- ``Ctrl+D``: quit fla console (force)
+- ``Ctrl+D``: quit from fla console (force)
  
 
 ``>_`` Notes: 
