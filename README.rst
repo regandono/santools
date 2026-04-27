@@ -56,7 +56,7 @@ Features
 
   Offline tools for Brocade SAN switch.
 
-- ``HCP`` [PENDING]
+- ``HCP`` 
       
   Offline tools for Hitachi Content Platform.
 
