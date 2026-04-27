@@ -139,7 +139,8 @@ Default password is ``fla``.
 ::
 
      VERSION             STATUS        FILE                     REMARK
-     v1.0.0 BETA1        [OK]                                   Mode: CMD, SSH, SSHX, IPC, KB, HNAS, HNASF
+     v1.0.0 BETA1        [OK]          fla-v1.0.0Beta1.rar      Mode: CMD, SSH, SSHX, IPC, KB, HNAS, HNASF
+                                                                Bugs fix
      Next release        [PENDING]                              Mode: EOV
 
                
