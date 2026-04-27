@@ -24,11 +24,11 @@ Features
 
 - ``HNAS``
 
-  Non-interactive online connection to hitachi NAS. 
+  Non-interactive online connection to hitachi NAS CLI. 
 
   Please refer each model of HNAS CLI Documentations for CLI command.
 
-- ``HNASF``
+- ``HNASF`` HNAS Offline Viewer
 
   Offline tools for Hitachi NAS.
 
@@ -48,15 +48,15 @@ Features
 
   Simple tools to manages your knowledge/snip/notes/tips&trics/etc.
 
-- ``MDS``
+- ``MDS`` MDS Offline Viewer
 
   Offline tools for Cisco MDS SAN switch.
 
-- ``BROCADE``
+- ``BROCADE`` Brocade Offline Viewer
 
   Offline tools for Brocade SAN switch.
 
-- ``HCP`` 
+- ``HCP`` HCP Offline Viewer
       
   Offline tools for Hitachi Content Platform.
 
