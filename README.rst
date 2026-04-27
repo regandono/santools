@@ -137,18 +137,12 @@ Default password is ``fla``.
   * Currently only suport one (1) cluster per diagnostic file.   
 
 
-``>_`` Changelog: 
+``>_`` Version Changelog: 
 
 ::
 
-     v1.0.0 - Beta
-     STATUS     FILE                     REMARK
-     [OK]       fla 241218.rar           Mode: CMD, SSH, IPC, KB
-     [OK]       fla 241219.rar           Mode: HNAS
-     [OK]       fla 250106.rar           Mode: HNASF, SSHX
-                                         Etc: autocomplete, history, statusbar
-     [OK]       fla 250131.rar           HNASF xView, color formatting
-     [OK]       fla 260329.rar           Etc: Kali ZSH Prompt
-     [OK]       fla 260411.rar           Mode: MDS, BROCADE
-     [PENDING]                           EOV,HCP
+     VERSION             STATUS        FILE                     REMARK
+     v1.0.0 BETA1        [OK]                                   Mode: CMD, SSH, SSHX, IPC, KB, HNAS, HNASF
+     Next release        [PENDING]                              Mode: EOV
+
                
