@@ -88,6 +88,12 @@ Default password is ``fla``.
        - SETTING     
          SETTING> applykey
   
+    5. Setup repository folder
+       - Fla     
+         Fla> setting setup repository
+       - SETTING     
+         SETTING> setup repository
+
 ``>_`` Navigations:
 
 
