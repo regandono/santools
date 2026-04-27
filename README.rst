@@ -103,6 +103,8 @@ Default password is ``fla``.
 - ``Ctrl+Space``: show command/sub command
 - ``Ctrl+S``: search
 - ``Ctrl+A``: select all
+- ``Ctrl+X``: exit from mode (force)
+- ``Ctrl+D``: quit fla console (force)
  
 
 ``>_`` Notes: 
