@@ -109,11 +109,7 @@ Navigate to ``Release`` or can click this link to download latest version https:
 - ``Ctrl+X``: exit from mode (force)
 - ``Ctrl+D``: quit from fla console (force)
  
-
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
+ 
 ``>_`` Notes: 
 
 
