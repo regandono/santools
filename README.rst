@@ -18,7 +18,7 @@ Features
 
   IP Changer tools manages static ip address profiles that enables you to quickly connect every devices on your customers.
 
-- ``EOV`` Enterprise Offline Viewer [PENDING`#0969DA`]
+- ``EOV`` Enterprise Offline Viewer [**PENDING**]
    
   Offline tools for Hitachi Enterprise storage.
 
@@ -109,6 +109,10 @@ Navigate to ``Release`` or can click this link to download latest version https:
 - ``Ctrl+X``: exit from mode (force)
 - ``Ctrl+D``: quit from fla console (force)
  
+
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
 ``>_`` Notes: 
 
