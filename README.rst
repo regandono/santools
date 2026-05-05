@@ -63,6 +63,20 @@ Features
   Offline tools for Hitachi Content Platform. 
 
 
+
+``>_`` Suported logs 
+
+- ``EOV`` Enterprise Offline Viewer: Storage Configuration Report
+
+- ``HNASF`` HNAS Offline Viewer: HNAS Diagnostic
+
+- ``MDS`` MDS Offline Viewer: Cisco Tech-Support
+
+- ``BROCADE`` Brocade Offline Viewer: Brocade supportshow
+
+- ``HCP`` HCP Offline Viewer: HCP Internal Log
+
+
 Getting started
 -------------
 Fla is free application and please email me your hardware id to get your key to unlock all.
