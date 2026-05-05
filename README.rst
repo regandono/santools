@@ -166,5 +166,6 @@ Navigate to ``Release`` or can click this link to download latest version https:
      v1.0.0 BETA1        [OK]          fla.v1.0.0.Beta1.rar     Mode: CMD, SSH, SSHX, IPC, KB, HNAS, HNASF, BROCADE, MDS, HCP
                                                                 Bugs fix
      Next release        [PENDING]                              Mode: EOV
+                                                                Bugs fix, Update IPC/KB Add/Edit/Delete
 
                
