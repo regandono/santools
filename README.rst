@@ -165,8 +165,9 @@ Navigate to ``Release`` or can click this link to download latest version https:
      VERSION             STATUS        FILE                     REMARK
      v1.0.0 BETA1        [OK]          fla.v1.0.0.Beta1.rar     Mode: CMD, SSH, SSHX, IPC, KB, HNAS, HNASF, BROCADE, MDS, HCP
                                                                 Bugs fix
-     Next release        [OK]          fla.v1.0.0.Beta2.rar     Mode: EOV
+     v1.0.0 BETA2        [OK]          fla.v1.0.0.Beta2.rar     Mode: EOV
                                                                 Bugs fix on HCP, MDS
                                                                 Update IPC/KB Add/Edit/Delete
+     Next release        [PENDING]                              VSP B20 & B85
 
                
