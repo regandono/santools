@@ -132,6 +132,8 @@ Navigate to ``Release`` or can click this link to download latest version https:
 - ``General``
 
 
+  * To import VSP One Block (B20 & B85) configurations, please use ``Config Collector (cc)``
+
   * If font cannot show properly, change your terminal font (eg: Cascadia Mono)
 
 
