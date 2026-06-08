@@ -5,4 +5,6 @@
 
 Welcome to Config Collector
 ===================
-``>_`` Config Collector (cc) is console application for getting configuration/logs.
+``>_`` Config Collector (cc) is console application for getting configurations/logs and all files will be securely encrypted and zip into single file.
+
+Please use ``Fla Console`` to import and view.
