@@ -1,9 +1,8 @@
-123
 
+.. image:: https://img.shields.io/badge/ConfigCollector-v1.0.0 (BETA)-blue
 
-Regandono SANTools Project Repo
+ 
 
-
-`Fla Console <https://github.com/regandono/santools/tree/fla>`_ 
-
-`Config Collector <https://github.com/regandono/santools/tree/cc>`_ 
+Welcome to Config Collector
+===================
+``>_`` Config Collector (cc) is console application for getting configuration/logs.
