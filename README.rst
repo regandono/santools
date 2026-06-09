@@ -66,7 +66,7 @@ Features
 
 ``>_`` Suported logs 
 
-- ``EOV`` Enterprise Offline Viewer: Storage Configuration Report
+- ``EOV`` Enterprise Offline Viewer: Storage Navigator Configuration Report and Config Collector
 
 - ``HNASF`` HNAS Offline Viewer: HNAS Diagnostic
 
