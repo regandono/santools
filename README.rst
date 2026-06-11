@@ -62,6 +62,21 @@ Features
       
   Offline tools for Hitachi Content Platform. 
 
+``>_`` Build in to log terminal session into file.
+ 
+::
+ 
+    * Log session from app start 
+      - Fla     
+        Fla> setting setup
+      - SETTING     
+        SETTING> setup
+
+    * Log session on the fly
+      - Fla     
+        Fla> setting log enable
+      - SETTING     
+        SETTING> log enable
 
 
 ``>_`` Suported logs 
