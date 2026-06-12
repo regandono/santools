@@ -80,6 +80,8 @@ Features
 
 
 ``>_`` Run and show output from terminal.
+
+  Required to disable password before execute from outside.
  
 ::
 
