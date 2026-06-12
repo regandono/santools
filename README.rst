@@ -86,7 +86,11 @@ Features
  
 ::
 
-   c:\fla.exe eov show pool
+    * if not required to open imported configuration 
+      c:\fla.exe ipc show
+
+    * if required to open imported configuration 
+      c:\fla.exe --open "customer 1" eov show pool
 
 
 
