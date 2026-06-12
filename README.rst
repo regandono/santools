@@ -11,7 +11,7 @@ Welcome to Fla
 
 Features
 ----------
-``>_`` It's portable.
+``>_`` It's portable and lightweight as terminal application.
 
 ``>_`` Available Mode/Module/Component/what ever we can call this:
 
