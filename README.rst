@@ -66,7 +66,7 @@ Features
  
 ::
  
-    * Log session from app start 
+    * enable log session from app start 
       - Fla     
         Fla> setting setup
       - SETTING     
@@ -77,6 +77,14 @@ Features
         Fla> setting log enable
       - SETTING     
         SETTING> log enable
+
+
+``>_`` Run and show output from terminal.
+ 
+::
+
+   c:\fla.exe eov show pool
+
 
 
 ``>_`` Suported logs 
@@ -186,5 +194,8 @@ Navigate to ``Release`` or can click this link to download latest version https:
                                                                 Bugs fix on HCP, MDS
                                                                 Update IPC/KB Add/Edit/Delete
      Next release        [PENDING]                              VSP B20 & B85
+                                                                Log session into file
+                                                                Run and show output from terminal (eg. fla.exe eov show pool)
+                                                                Bugs fix
 
                
