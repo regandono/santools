@@ -97,6 +97,18 @@ Features
       c:\fla.exe --open "customer 1" eov show pool
 
 
+``>_`` If required get output (stdout) for your code, need convert to utf-8 as below sample (python)
+
+
+
+::
+
+   import subprocess   
+   env = os.environ.copy()   
+   env["PYTHONIOENCODING"] = "utf-8"    
+   result = subprocess.run([r"C:/Fla.exe","ipc", "show"], stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True, encoding="utf-8", env=env)    
+   print(result.stdout)
+
 
 ``>_`` Suported logs 
 
