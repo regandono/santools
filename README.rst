@@ -1,6 +1,9 @@
-.. image:: https://img.shields.io/badge/Fla-v1.0.0 (BETA)-blue
 
- 
+|fla| |license|  
+
+.. |fla| image:: https://img.shields.io/badge/Fla-v1.0.0 (BETA)-blue
+
+.. |license| image:: https://img.shields.io/badge/License-Free-green
 
 Welcome to Fla
 ===================
