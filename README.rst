@@ -83,7 +83,7 @@ Features
 
 - Required to disable password before execute from outside.
 - If not show output, please enter console to see details error.
-- No color formating (following terminal)
+
  
 ::
 
