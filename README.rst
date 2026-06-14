@@ -81,7 +81,7 @@ Features
 
 ``>_`` Run and show output from terminal.
 
-- Required to disable password before execute from outside.
+- Best to disable password before execute from outside.
 - If not show output, please enter console to see details error.
 
  
