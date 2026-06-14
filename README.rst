@@ -29,7 +29,7 @@ Features
 
 - ``HNAS``
 
-  Non-interactive online connection to hitachi NAS CLI. 
+  Non-interactive online connection (SSC) to hitachi NAS CLI. 
 
   Please refer each model of HNAS CLI Documentations for CLI command.
 
