@@ -1,5 +1,11 @@
 
-.. image:: https://img.shields.io/badge/ConfigCollector-v1.0.0 (BETA)-blue
+|cc| |license|  
+
+.. |cc| image:: https://img.shields.io/badge/ConfigCollector-v1.0.0 (BETA)-blue
+
+.. |license| image:: https://img.shields.io/badge/License-Free-green
+
+ 
 
 Welcome to Config Collector
 ===================
