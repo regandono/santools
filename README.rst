@@ -216,7 +216,8 @@ Navigate to ``Release`` or can click this link to download latest version https:
      v1.0.0 BETA2        [OK]          fla.v1.0.0.Beta2.rar     Mode: EOV
                                                                 Bugs fix on HCP, MDS
                                                                 Update IPC/KB Add/Edit/Delete
-     Next release        [PENDING]                              VSP B20 & B85
+     Next release        [PENDING]                              Missing EOV COMPONENT,LDEV
+                                                                VSP B20 & B85
                                                                 Log session into file
                                                                 Run and show output from terminal (eg. fla.exe eov show pool)
                                                                 Bugs fix
