@@ -129,7 +129,7 @@ Getting started
 -------------
 Fla is free application and please email me your hardware id to get your key to unlock all.
 
-But if you insist donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`__.
+But if you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`__. :)
  
 Default password is ``fla``.
 
