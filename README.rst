@@ -1,12 +1,13 @@
 
+Fla Console
+===================
+
 |fla| |license|  
 
 .. |fla| image:: https://img.shields.io/badge/Fla-v1.0.0 (BETA)-blue
 
 .. |license| image:: https://img.shields.io/badge/License-Free-green
 
-Welcome to Fla
-===================
 ``>_`` Fla is console application (**specifically**) for storage administrator/engineer to view storage related device/component configuration/logs and have built in tools that very usefull for any administrator/engineer.
  
 .. image :: https://github.com/regandono/santools/blob/fla/images/fla - fhelp.png
