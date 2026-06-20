@@ -86,7 +86,8 @@ Features
 ``>_`` Run and show output from terminal.
 
 - Best to disable password before execute from outside.
-- If not show output, please enter console to see details error.
+- Command menu and auto complete not available if execute outside console.
+- If cannot show any output, please enter console to see details error.
 
  
 ::
