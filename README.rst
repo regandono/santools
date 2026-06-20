@@ -162,10 +162,10 @@ Navigate to ``Release`` or can click this link to download latest version https:
 
 
 - ``Arrow Up/Down``: command history
-- ``Arrow Right``: auto complete from history
+- ``Arrow Right``: fill from auto complete from history
 - ``Tab``: show command/sub command/change focus
 - ``Shift+Tab``: change to previous focus
-- ``Ctrl+Space``: show command/sub command
+- ``Alt+F/Tab``: show command/sub command
 - ``Ctrl+S``: search
 - ``Ctrl+A``: select all
 - ``Ctrl+X``: exit from mode (force)
