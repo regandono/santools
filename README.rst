@@ -195,7 +195,7 @@ Navigate to ``Release`` or can click this link to download `latest version <http
 
     - Show/hide any column using.
 
-      ``>_`` SHOW COLUMN or COLUMN SET or COLUMN RESET
+      ``>_`` COLUMN SHOW
 
 
 - ``IPC``
