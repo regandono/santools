@@ -193,7 +193,7 @@ Navigate to ``Release`` or can click this link to download `latest version <http
 
       Goto  your terminal Properties or using CLI mode 'con:cols=Width_Size'
 
-    - Show/hide any column using.
+    - If output show as table, show/hide any column using.
 
       ``>_`` COLUMN SHOW
 
