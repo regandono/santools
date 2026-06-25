@@ -165,10 +165,11 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
 ``>_`` Navigations:
 
 
-- ``Arrow Up/Down``: command history.
+- ``Arrow Up/Down``: command history or move between radio/check box.
 - ``Arrow Right``: fill from auto complete from history.
 - ``Tab``: show command/sub command/change focus.
 - ``Shift+Tab``: change to previous focus.
+- ``Space/Enter``: select/unselect radio/checkbox or press button.
 - ``Alt+F/Tab``: show command/sub command.
 - ``Ctrl+S``: search.
 - ``Ctrl+A``: select all.
