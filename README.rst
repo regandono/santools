@@ -129,12 +129,12 @@ Getting started
 -------------
 Fla is free application and please email me your hardware id to get your key to unlock all.
 
-But if you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`__. :)
- 
 Default password is ``fla``.
 
 Navigate to ``Release`` or can click this link to download `latest version <https://github.com/regandono/santools/releases>`__.
 
+If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`__. 🙂
+ 
 ``>_`` How to get your key and apply: 
  
 ::
