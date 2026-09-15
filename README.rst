@@ -21,5 +21,6 @@ Please use `Fla Console <https://github.com/regandono/santools/tree/fla>`_ to im
 
      VERSION             STATUS        FILE                                   REMARK
      v1.0.0 BETA3        [OK]          Config.Collector.v1.0.0.BETA3.zip      RestAPI: VSP G/F/E/5000/B20/B85
+     v1.0.0 BETA4        [OK]          Config.Collector.v1.0.0.BETA4.zip      Bugs fix
      Next release        [PENDING]                                            SSH: Cisco Tech-Support/Brocade supportshow 
                                                                               
