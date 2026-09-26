@@ -97,7 +97,7 @@ Features
     * If not required to open imported configuration.
       c:\fla.exe ipc show
 
-    * If required to open imported configuration use '--open'
+    * If required to open (EOV/HNASF/MDS/BROCADE/HCP) imported configuration, use '--open' options.
       c:\fla.exe --open "customer 1" eov show pool
 
 
@@ -108,8 +108,6 @@ All table format output can be filter by spesific column or by all.
 
 - example filter by spesific column:
 
-  
-
 ::
 
   EOV> SHOW HG "Host Group":G00
@@ -118,8 +116,6 @@ All table format output can be filter by spesific column or by all.
 
 - example filter by all column:
 
-
- 
 ::
 
   EOV> SHOW FILTER ldev HDP
