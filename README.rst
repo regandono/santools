@@ -114,7 +114,7 @@ All table output can be filter by spesific column or by all.
 
   EOV> SHOW HG "Host Group":G00
   MDS> SHOW INTERFACE speed:32
-  BROCADE> SHOW ALIAS name:VR
+  BROCADE> SHOW ALIAS name:Server1
 
 - example filter by all column:
 
