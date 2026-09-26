@@ -104,7 +104,7 @@ Features
 
 ``>_`` Easy to filter.
 
-All table output can be filter by spesific column or by all.
+All table format output can be filter by spesific column or by all.
 
 - example filter by spesific column:
 
