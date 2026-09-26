@@ -101,6 +101,33 @@ Features
       c:\fla.exe --open "customer 1" eov show pool
 
 
+
+``>_`` Easy to filter.
+
+All table output can be filter by spesific column or by all.
+
+- example filter by spesific column:
+
+  
+
+::
+
+  EOV> SHOW HG "Host Group":G00
+  MDS> SHOW INTERFACE speed:32
+  BROCADE> SHOW ALIAS name:VR
+
+- example filter by all column:
+
+
+ 
+::
+
+  EOV> SHOW FILTER ldev HDP
+  MDS> SHOW FILTER interface down
+  BROCADE> SHOW FILTER port F-Port
+
+
+
 ``>_`` If required get output (stdout) for your code, need convert to utf-8 as below sample (python).
 
 
