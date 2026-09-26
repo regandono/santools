@@ -1,9 +1,11 @@
 
-|cc| |license|  
+|cc| |license| |platform| 
 
-.. |cc| image:: https://img.shields.io/badge/ConfigCollector-v1.0.0 (BETA)-blue
+.. |cc| image:: https://img.shields.io/badge/ConfigCollector-v1.0.0 (BETA)-red
 
 .. |license| image:: https://img.shields.io/badge/License-Free-green
+
+.. |platform| image:: https://img.shields.io/badge/Platform-Free-blue
 
  
 
