@@ -141,7 +141,7 @@ All table format output can be filter by spesific column or by all.
 
 - ``EOV`` Enterprise Offline Viewer: Storage Navigator Configuration Report and Config Collector.
 
-- ``HNASF`` HNAS Offline Viewer: HNAS Diagnostic.
+- ``HNASF`` HNAS Offline Viewer: HNAS Diagnostic and Config Collector.
 
 - ``MDS`` MDS Offline Viewer: Cisco Tech-Support.
 
