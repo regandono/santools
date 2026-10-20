@@ -245,7 +245,7 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
 
 - ``HNASF`` 
 
-  * Diagnostics output have limitation (only show (max) 20 records per vnode/pnodes).
+  * HNAS diagnostics output have limitation (only show (max) 20 records per vnode/pnodes for spesific log, eg. cifs share, nfs export). Please use ``Config Collector (cc)``.
   
   * Currently only suport one (1) cluster per diagnostic file.   
 
@@ -261,7 +261,8 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
                                                                 Bugs fix on HCP, MDS
                                                                 Update IPC/KB Add/Edit/Delete
      Next release        [PENDING]                              Missing EOV COMPONENT,LDEV
-                                                                VSP B20 & B85
+                                                                VSP B20 & B85 from Config Collector
+                                                                VSP One File (HNAS) from Config Collector
                                                                 Log session into file
                                                                 Run and show output from terminal (eg. fla.exe eov show pool)
                                                                 Bugs fix
