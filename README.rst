@@ -121,6 +121,20 @@ All table format output can be filter by spesific column or by all.
   EOV> SHOW FILTER ldev HDP
   MDS> SHOW FILTER interface down
   BROCADE> SHOW FILTER port F-Port
+  EOV> SHOW HG "Host Group":G00
+
+
+``>_`` Custom table output.
+
+All table format output can be custom.
+
+- Fla using tabulate library and all table format can be change (default is fancy_grid and simple)
+
+- Column can be show/hide 
+
+::
+
+  COLUMN SET
 
 
 
