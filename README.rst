@@ -212,7 +212,7 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
 - ``Alt+F/Tab``: show command/sub command.
 - ``Ctrl+S``: search.
 - ``Ctrl+A``: select all.
-- ``Ctrl+X``: break.
+- ``Ctrl+C``: break.
 - ``Ctrl+D``: quit from mode/fla console (force).
  
  
