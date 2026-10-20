@@ -245,7 +245,7 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
 
 - ``HNASF`` 
 
-  * HNAS diagnostics output have limitation (only show (max) 20 records per vnode/pnodes for spesific log, eg. cifs share, nfs export). Please use ``Config Collector (cc)``.
+  * HNAS diagnostics output have limitation (only show (max) 20 records per vnode/pnodes for spesific log, eg. cifs share, nfs export). For more details, please use ``Config Collector (cc)``.
   
   * Currently only suport one (1) cluster per diagnostic file.   
 
