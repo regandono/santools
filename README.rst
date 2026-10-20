@@ -130,7 +130,7 @@ All table format output can be custom.
 
 - Fla using tabulate library and all table format can be change (default is fancy_grid and simple)
 
-- Column can be show/hide 
+- Column can be show/hide  
 
 ::
 
@@ -235,7 +235,7 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
 
     - If output show as table, show/hide any column using.
 
-      ``>_`` COLUMN SHOW
+      ``>_`` COLUMN SET
 
 
 - ``IPC``
