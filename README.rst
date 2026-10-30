@@ -221,7 +221,7 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
 - ``General``
 
 
-  * To import VSP One Block (B20 & B85) configurations, please use ``Config Collector (cc)``
+  * To import VSP One Block (B20 & B85) configurations, please use `Config Collector (cc) <https://github.com/regandono/santools/tree/cc>`__.
 
   * If font cannot show properly, change your terminal font (eg: Cascadia Mono).
 
@@ -244,7 +244,7 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
 
 - ``HNASF`` 
 
-  * HNAS diagnostics output have limitation (only show (max) 20 records per vnode/pnodes for spesific log, eg. cifs share, nfs export). For more details, please use ``Config Collector (cc)``.
+  * HNAS diagnostics output have limitation (only show (max) 20 records per vnode/pnodes for spesific log, eg. cifs share, nfs export). For more details, please use `Config Collector (cc) <https://github.com/regandono/santools/tree/cc>`__.
   
   * Currently only suport one (1) cluster per diagnostic file.   
 
