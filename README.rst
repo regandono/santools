@@ -263,7 +263,8 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
                                                                 VSP B20 & B85 from Config Collector
                                                                 VSP One File (HNAS) from Config Collector
                                                                 Log session into file
-                                                                Run and show output from terminal (eg. fla.exe eov show pool)
+                                                                Run and show output from terminal (non-interactive), 
+                                                                   eg. fla.exe eov show
                                                                 Bugs fix
 
                
