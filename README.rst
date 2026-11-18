@@ -2,7 +2,7 @@
 Fla Console
 ===================
 
-|fla| |license| |platform| 
+|fla| |platform| 
 
 .. |fla| image:: https://img.shields.io/badge/Fla-v1.0.0 (BETA)-red
 
