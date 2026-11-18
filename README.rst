@@ -121,7 +121,7 @@ All table format output can be filter by spesific column or by all.
   EOV> SHOW FILTER ldev HDP
   MDS> SHOW FILTER interface down
   BROCADE> SHOW FILTER port F-Port
-  EOV> SHOW HG "Host Group":G00
+  EOV> SHOW FILTER HG G00
 
 
 ``>_`` Custom table output.
