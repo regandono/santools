@@ -85,9 +85,10 @@ Features
         SETTING> log enable
 
 
-``>_`` Run and show output from terminal.
+``>_`` Run and show output from terminal (non-interactive).
 
 - Best to disable password before execute from outside.
+- More slow compare with interactive.
 - Command menu and auto complete not available if execute outside console.
 - If cannot show any output, please enter console to see details error.
 
@@ -252,9 +253,12 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
 
 - ``BROCADE``
 
-  * [CAUNTION] For port alias and if alias name is too sort, will not show properly port member.
+  * [CAUNTION] if cfg(defined)/alias name is too sort, will not show properly port member.
 
-    eg. alias name is VTL_1 and member is 11,248, will show VTL_111,248 as alias name and empty member
+    eg. 
+       alias name is VTL_1 and member is 11,248, will show VTL_111,248 as alias name
+
+       cfg(defined) name is CFG1 and member is zone1, will show CFG1zone1 as cfg name
 
 
 
@@ -275,6 +279,8 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
                                                                 Log session into file
                                                                 Run and show output from terminal (non-interactive), 
                                                                    eg. fla.exe eov show
+                                                                Add EOV>TOOLS>REPORT>HGDETAILS
+                                                                Add EOV>TOOLS>REPORT>LDEVDETAILS
                                                                 Bugs fix
 
                
