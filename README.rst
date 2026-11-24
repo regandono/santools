@@ -153,7 +153,7 @@ All table format output can be custom.
 
 ``>_`` Suported logs.
 
-- ``EOV`` Enterprise Offline Viewer: Storage Navigator Configuration Report and Config Collector.
+- ``EOV`` Enterprise Offline Viewer: Storage Navigator Configuration Report and Config Collector(prefer).
 
 - ``HNASF`` HNAS Offline Viewer: HNAS Diagnostic and Config Collector.
 
