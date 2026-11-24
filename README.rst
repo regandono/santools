@@ -274,8 +274,8 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
                                                                 Bugs fix on HCP, MDS
                                                                 Update: [IPC/KB]>[Add/Edit/Delete]
      Next release        [PENDING]                              Fix: Missing EOV>[COMPONENT/LDEV]
-                                                                Add: VSP B20 & B85 from Config Collector
-                                                                Add: VSP One File (HNAS) from Config Collector
+                                                                Add: EOV import configuration from Config Collector
+                                                                Add: HNASF import configuration from Config Collector [PENDING]
                                                                 Add: Log session into file
                                                                 Add: Run and show output from terminal (non-interactive), 
                                                                      eg. fla.exe eov show
