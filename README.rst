@@ -272,7 +272,7 @@ If you insist to donate can `BuyMeCoffee <https://buymeacoffee.com/flaconsole>`_
                                                                 Bugs fix
      v1.0.0 BETA2        [OK]          fla.v1.0.0.Beta2.rar     Add: Mode(EOV)
                                                                 Bugs fix on HCP, MDS
-                                                                Update: [IPC/KB] [Add/Edit/Delete]
+                                                                Update: [IPC/KB]>[Add/Edit/Delete]
      Next release        [PENDING]                              Fix: Missing EOV>[COMPONENT/LDEV]
                                                                 Add: VSP B20 & B85 from Config Collector
                                                                 Add: VSP One File (HNAS) from Config Collector
